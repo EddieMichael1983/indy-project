@@ -1,4 +1,4 @@
-#### _Portfolio Landing Page Code Review, 8-21-2020_
+#### _Indy Project, 8-21-2020_
 
 #### By _**Eddie Michael**_
 

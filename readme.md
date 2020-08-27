@@ -8,7 +8,7 @@ An independent project demonstrating a basic understanding of HTML tags, CSS sty
 
 ## Setup/Installation Requirements
 
-* Step 1: Open this <a href="https://eddiemichael1983.github.io/indy-project/">link</a> in a web browser: 
+* Step 1: Open this [link](https://eddiemichael1983.github.io/indy-project/) in a web browser: 
 * Step 2: View the page
 
 ## Known Bugs

@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(45deg,#E2F174 , #FADEAF);
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.red {
+  color: #FC0013 ;
+}
+
+.red h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+  margin: 5px;
+  margin-right: 10px;
+  float: left;
+}
+
+.aboutme {
+  font-family: 'Courier New', Courier, monospace;
+  width: 52%;
+  margin-bottom: 10px;
+}
+
+p a {
+  color: #9700FF;
+}
+
+.box {
+  width: 52%;
+  border: solid #000FFF;
+  border-width: 1px;
+  background-color: #F7FF00;
+  margin-bottom: 10px;
+}
+
+.repos {
+  width: 52%;
+  background-color: #00FFE0;
+  border: solid #000FFF;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+
+.repos ul {
+  font-size: 13pt;
+}
+
+.repos ul a {
+  color: #9700FF ;
+  font-weight: bold;
+}
+
+.career-goals {
+  width: 52%;
+  background-color: #FC8C72 ;
+  border: solid #000FFF;
+  border-width: 1px;
+  margin-bottom: 0px;
+}
+
+.career-goals ol li {
+  font-size: 13pt;
+}
+
+.resources ul a {
+  font-weight: bold;
+  color: #9700FF;
+}

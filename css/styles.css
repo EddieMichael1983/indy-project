@@ -40,6 +40,7 @@ p a {
   border-width: 1px;
   background-color: #F7FF00;
   margin-bottom: 10px;
+  padding: 8px;
 }
 
 .repos {
@@ -48,6 +49,7 @@ p a {
   border: solid #000FFF;
   border-width: 1px;
   margin-bottom: 10px;
+  padding: 8px;
 }
 
 .repos ul {
@@ -65,6 +67,7 @@ p a {
   border: solid #000FFF;
   border-width: 1px;
   margin-bottom: 0px;
+  padding: 8px;
 }
 
 .career-goals ol li {
